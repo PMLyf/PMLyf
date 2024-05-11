@@ -1,12 +1,12 @@
 ### Hello and Thanks for visiting my Github! 👋
-- - 🔭 I’m currently working on creating Android Applications.
- - - 🌱 I’m currently learning LLM tuning and implementation.
-   - - 👯 I’m looking to collaborate on Web and Android.
-     - - 🤔 I’m looking for help with finding a career.
-       - - 💬 Ask me about the company we started.
-         - - 📫 How to reach me:
-           - - Business Phone: 904.469.1101 Email: David@sandideveloper.com
-             - - ⚡ Fun fact: I like cars
+ - - 🔭 I’m currently working on creating Android Applications.
+  - - 🌱 I’m currently learning LLM tuning and implementation.
+    - - 👯 I’m looking to collaborate on Web and Android.
+      - - 🤔 I’m looking for help with finding a career.
+        - - 💬 Ask me about the company we started.
+          - - 📫 How to reach me:
+            - - Business Phone: 904.469.1101 Email: David@sandideveloper.com
+              - - ⚡ Fun fact: I like cars
 
 
 
