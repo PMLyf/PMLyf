@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on creating Android Applications.<br>🌱 I’m currently learning LLM tuning and implementation.<br>👯 I’m looking to collaborate on Web and Android.<br>🤔 I’m looking for help with finding a career.<br>💬 Ask me about the company we started.<br>📫 How to reach me:<br>Business Phone: 904.469.1101 Email: David@sandideveloper.com<br>⚡ Fun fact: I like cars
+🔭 I’m currently working on creating Android Applications.<br>🌱 I’m currently learning LLM tuning and implementation.<br>👯 I’m looking to collaborate on Web and Android.<br>🤔 I’m looking for help with modular android applications<br>💬 Ask me about the company we started.<br>📫 How to reach me:<br>Business Phone: 904.469.1101 Email: David@sandideveloper.com<br>⚡ Fun fact: I like cars
 
 
 ## 🌐 Socials:
